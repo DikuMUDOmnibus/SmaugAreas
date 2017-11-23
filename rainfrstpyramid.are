@@ -1,0 +1,3999 @@
+#AREA   Rain-Forest Pyramid~
+
+#AUTHOR Cianhydle~
+
+#RANGES
+30 50 0 65
+$
+
+#RESETMSG From nearby you hear a cat meow...~
+
+#FLAGS
+0 15
+
+#ECONOMY 0 4999763
+
+#MOBILES
+#50000
+cat wildcat~
+a wildcat~
+A small cat is prowling about here living in the wild.
+~
+This small feline creature is only about two feet long, about twice
+the size of an average house cat.  It looks lean and well adjusted to
+life in the wild.  You can tell it has seen a few scraps due to a few
+patches of missing hair.
+~
+97 0 0 C
+3 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+18 13 13 20 18 13 0
+0 0 0 0 0
+29 0 0 0 1 1 0
+0 0 134283297 0 0 0 3 2
+> death_prog 5~
+mpoload 50001
+drop all
+~
+|
+#50001
+cat bobcat~
+a bobcat~
+A medium sized cat is here stalking prey.
+~
+This cat is about three feet long and is colored white, brown, and in
+some places black.  It has very sharp claws, and is sniffing the air
+carefully, almost as if it was here for some other purpose.  Although
+it looks like it is stalking prey, you have not seen anything else up
+here except other felines.  Perhaps it is are stalking you?
+~
+97 32 0 C
+6 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+18 13 13 20 18 13 0
+0 0 0 0 0
+29 0 0 0 1 1 0
+0 0 134283297 0 0 0 3 2
+> death_prog 5~
+mpoload 50002
+drop all
+~
+|
+#50002
+cat ocelot~
+an ocelot~
+A mid-sized cat is here stalking prey.
+~
+This cat is about three feet long and is colored white, brown, and in
+some places black.  It has very sharp teeth, and is sniffing the air
+carefully, almost as if it was here for some other purpose.  Although
+it looks like it is stalking prey, you have not seen anything else up
+here except other felines.  Perhaps it is are stalking you?
+~
+97 32 0 C
+9 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+18 13 13 20 18 13 0
+0 0 0 0 0
+29 0 0 0 1 1 0
+0 0 134283297 0 0 0 3 2
+> death_prog 5~
+mpoload 50003
+drop all
+~
+|
+#50003
+feline lynx~
+a lynx~
+A brown and white feline is here stalking prey.
+~
+This cat is about three feet long and is colored white, brown, and in
+some places black.  It has very sharp claws, and is sniffing the air
+carefully, almost as if it was here for some other purpose.  Although
+it looks like it is stalking prey, you have not seen anything else up
+here except other felines.  Perhaps it is are stalking you?
+~
+97 32 0 C
+12 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+18 13 13 20 18 13 0
+0 0 0 0 0
+29 0 0 0 1 1 0
+0 0 134283297 0 0 0 3 2
+> death_prog 5~
+mpoload 50004
+drop all
+~
+|
+#50004
+cat mountain lion~
+a mountain lion~
+A lion-like cat is here feeling quite at home.
+~
+This cat is over three feet in length, has short brown hair, and looks
+very close to a lioness, just a bit smaller.  Somehow this animal is
+quiet at home here atop the pyramid.  You can almost sense some kind
+of super-animal intelligence in the creatures eyes.  This and the fact
+that there are no lairs and these ceatures are peacefully co-existing,
+as if they are being controlled, is making you just a bit uneasy.
+~
+97 32 0 C
+15 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+18 13 13 20 18 13 0
+0 0 0 0 0
+29 0 0 0 1 1 0
+0 0 134283297 0 0 0 3 2
+> death_prog 5~
+mpoload 50005
+drop all
+~
+|
+#50005
+cat puma~
+a puma~
+A graceful black cat is here perched atop the pyramid.
+~
+This graceful animal is nearly four feet in length, and has a dark
+grey coat of short hair.  Its eyes are even darker and contain just a
+hint of intelligence beyond that of a normal animal.  It sits here,
+turning its head looking for any sign of unwanted guests.
+~
+99 32 0 C
+18 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+18 13 13 20 18 13 0
+0 0 0 0 0
+29 0 0 0 1 1 0
+0 0 134283297 0 0 0 3 2
+> death_prog 5~
+mpoload 50006
+drop all
+~
+|
+#50006
+cat cougar~
+a cougar~
+A larger cat is here guarding something.
+~
+This animal looks quite similar to a mountain lion, just a bit bigger
+and its hair is shorter.  It also shares some characteristics with the
+much smaller bobcat.  It is evident that this creature is sitting here
+with a reason.
+~
+99 32 0 C
+21 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+18 13 13 20 18 13 0
+0 0 0 0 0
+29 0 0 0 1 1 0
+0 0 134283297 0 0 0 3 2
+> death_prog 5~
+mpoload 50007
+drop all
+~
+|
+#50007
+cat cheetah~
+a cheetah~
+A spotted cat is here ready to strike.
+~
+This slender, muscular feline is colored light golden-brown and has
+irregular black spots about the size of a small coin.  The animal
+moves with a almost magical swiftness, and acts with an intelligence
+unseen in most animals.  Obviously this cat has been domesticated by
+the natives, or is it some kind of greater power controlling it?
+~
+99 32 0 C
+24 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+18 13 13 20 18 13 0
+0 0 0 0 0
+29 0 0 0 1 1 0
+0 0 134283297 0 0 0 3 2
+> death_prog 5~
+mpoload 50008
+drop all
+~
+|
+#50008
+cat jaguar~
+a jaguar~
+A large feline is here sitting on the pyramid steps.
+~
+This animal is graceful and strong.  It is more likely that this cat
+would be off somewhere in the jungle hunting prey rather than sitting
+here atop the pyramid on the steps.  Even more unlikely would be the
+chances of it dwelling so close to other large cats.  A well schooled
+sage could point out the fact that some of these creatures are not
+native to the jungle.  How strange.
+~
+99 32 0 C
+28 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+18 13 13 20 18 13 0
+0 0 0 0 0
+29 0 0 0 1 1 0
+0 0 134283297 0 0 0 3 2
+> death_prog 5~
+mpoload 50009
+drop all
+~
+|
+#50009
+cat panther~
+a panther~
+A black cat is here,looking out over the jungle.
+~
+This majestic animal has a coat of solid black, and is quite good at
+hiding from its prey.  It waits, lurking here atop the pyramid for an
+unknown reason.  When engaged in combat it fights with tactics rather
+than just engaging with tooth and claw, a very human characteristic.
+~
+99 106536 0 C
+31 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+18 13 13 20 18 13 0
+0 0 0 0 0
+29 0 0 0 1 1 0
+0 0 134283297 0 0 0 3 2
+> death_prog 5~
+mpoload 50010
+drop all
+~
+|
+#50010
+cat leopard~
+a leopard~
+A large spotted cat is here resting on the crown.
+~
+This large spotted cat is nearly five feet in length, and has very
+well defined muscles.  It relaxes here at the crown of the pyramid
+along with a few other large cats.  The beasts eyes look out across
+the jungle watching, and waiting.
+~
+99 8232 0 C
+33 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+18 13 13 20 18 13 0
+0 0 0 0 0
+29 0 0 0 1 1 0
+0 0 134283297 0 0 0 3 2
+> death_prog 5~
+mpoload 50011
+drop all
+~
+|
+#50011
+feline tiger~
+a tiger~
+A muscular orange and black stripped feline is here.
+~
+This orange and black feline has vertical stripes that run the length
+of its body.  Near its face it has patches of white and black.  From
+head to tail the thing is over five feet long, and its giant paws are
+nearly the size of your head.  It growls and snarls at intrusion, and
+rises to attack anyone who does not belong here.
+~
+99 8232 0 C
+36 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+18 13 13 20 18 13 0
+0 0 0 0 0
+29 0 0 0 1 1 0
+0 0 134283297 0 0 0 3 2
+> death_prog 5~
+mpoload 50012
+drop all
+~
+|
+#50012
+cat lion~
+a lion~
+A yellow-colored cat with a flowing mane is here.
+~
+This is truely a magestic beast with golden-yellow hair, and a mane of
+flowing yellow.  It is well over six feet long, and has a deafening
+roar.  It sits here on a stone platform, not moving from its position.
+~
+99 8360 0 C
+39 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+18 13 13 20 18 13 0
+0 0 0 0 0
+29 0 0 0 1 1 0
+0 0 134283297 0 0 0 3 2
+> death_prog 5~
+mpoload 50013
+drop all
+~
+|
+#50013
+native~
+a native~
+A native is here participating in a ritual.
+~
+This man is wearing a strange costume made of wood, plants, and animal
+skins.  It is important to note that none of his costume is made from
+any part of a feline creature, although the costume itself does have a
+somewhat cat-like appearance.
+~
+97 0 0 C
+5 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+16 8 12 12 13 10 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 33 0 0 0 16 2
+> rand_prog 1~
+say Ungie-bungie.~
+|
+#50014
+native warrior~
+a native warrior~
+A native is standing here, protecting the pyramid.
+~
+This man is wearing a strange costume made of wood, plants, and animal
+skins.  It is important to note that none of his costume is made from
+any part of a feline creature, although the costume itself does have a
+somewhat cat-like appearance.
+~
+99 0 0 C
+10 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+16 8 12 12 13 10 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 33 0 0 0 16 2
+> rand_prog 1~
+say Ooga-booga!
+~
+|
+#50015
+native woman priestess~
+a native priestess~
+A native woman is standing here, protecting the pyramid.
+~
+This woman is wearing a strange costume made of wood, plants, and
+animal skins.  It is important to note that none of his costume is
+made from any part of a feline creature, although the costume itself
+does have a somewhat cat-like appearance.
+~
+99 168 0 C
+15 0 0 0d0+0 0d0+0
+0 0
+8 8 2
+16 8 12 12 13 10 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 33 0 0 0 16 2
+> all_greet_prog 100~
+bow
+say Bewarned!  You might slay me in combat.
+say Go beyond the sacred door and you will die.
+~
+|
+#50016
+native hunter~
+a native hunter~
+A native is here, hunting down animals.
+~
+This man is wearing a rather simple loincloth and wields only a basic
+spear.  He does not appear aggressive and watches you intently.
+~
+65 0 0 C
+20 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+16 8 12 12 13 10 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 33 0 0 0 16 2
+> greet_prog 50~
+if ispc($n)
+tell $n No go temple.
+endif 
+~
+|
+#50017
+renegade native~
+a renegade native~
+A native stands here, looking around the jungle.
+~
+This man is wearing a rather simple loincloth and wields only a basic
+spear.  He does not appear aggressive and watches you intently.  It is
+almost as if the native would like to communicate with you, but does
+not know enough common to really be of any use.
+~
+67 0 0 C
+10 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+16 8 12 12 13 10 0
+0 0 0 0 0
+0 0 0 0 1 1 0
+0 0 33 0 0 0 16 2
+> all_greet_prog 100~
+say Welcome to me hut.
+smile
+say Me hunter.
+say You find skin...
+say ...me make something for you.
+say We friends now.
+grin~
+> give_prog wildcat animal hide~
+mpjunk hide
+say Yes, wildcat hide make nice gloves.
+say Take as gift $n.
+smile
+mpoload 50014
+drop all
+~
+> give_prog bobcat animal hide~
+mpjunk hide
+say Yes, bobcat hide make good boots.
+say Take as gift $n.
+smile
+mpoload 50015
+drop all
+~
+> give_prog ocelot animal hide~
+mpjunk hide
+say Yes, ocelot hide make nice belt.
+say Take as gift $n.
+smile
+mpoload 50016
+drop all
+~
+> give_prog lynx animal hide~
+mpjunk hide
+say Yes, lynx hide make fancy headband.
+say You look kewl with it.
+grin
+smile
+mpoload 50017
+drop all
+~
+> give_prog mountain lion animal hide~
+mpjunk hide
+say Mountain lion make good tunic.
+say I make you tunic, then I must go.
+wave
+mpoload 50018
+drop all
+mpgoto 50095~
+> give_prog puma animal hide~
+mpjunk hide
+say Puma make good vest, then I go.
+wave
+mpoload 50019
+drop all
+mpgoto 50095~
+> give_prog cougar animal hide~
+mpjunk hide
+say Cougar skin make excellent armbands.
+say Then me go hunting.
+wave
+say Bye-bye $n.
+mpoload 50020
+drop all
+mpgoto 50095~
+> give_prog cheetah animal hide~
+mpjunk hide
+say You quick to kill the cheetah.
+say Wear this with honor.
+wave
+say Bye-bye $n, me go hunting.
+mpoload 50021
+drop all
+mpgoto 50095~
+> give_prog jaguar animal hide~
+mpjunk hide
+say Jaguar evil beast, but me no listen
+say too priest mumbo-jumbo and make
+say you nice, pretty bracer.
+say Time to go eat, be back later on.
+wave
+mpoload 50022
+drop all
+mpgoto 50095~
+> give_prog panther animal hide~
+mpjunk hide
+say Me make you facemask quickly before lunch.
+wave
+say I be back sometime later on $n.
+mpoload 50023
+drop all
+mpgoto 50095~
+> give_prog leopard animal hide~
+mpjunk hide
+say Leopard make pretty gloves.
+say I be back sometime later on $n.
+mpoload 50024
+drop all
+mpgoto 50095~
+> give_prog tiger animal hide~
+mpjunk hide
+say Powerful warrior to kill Tiger.  Poweful.
+say Me make you breeches to wear with
+say pretty stripped skin.
+yawn
+say Me go visit Knuumfactu, bye.
+mpoload 50025
+drop all
+mpgoto 50095~
+> give_prog lion animal hide~
+mpjunk hide
+say Lion very strong.  Me make you cloak
+say from it skin.  You strongest I know.  Me
+say like you, but after cloak I go to potty.
+mpoload 50026
+drop all
+mpgoto 50095~
+|
+#50018
+cat lord~
+The Cat Lord~
+A man with distinct feline features is standing here.
+~
+This man has very distinct feline features.  His nose is slender, as
+are his hands and feet.  His skin is covered with more hair than most
+humans, but it is light in color and lays close to his skin.  About
+his body he is wearing regal garmets that are quite different than
+the simple native folk who worship this being.  There is a powerful
+aura that is surround this being, as if in addition to being part-
+man, part-cat, he is also part-divine.
+~
+67 4202664 0 C
+65 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+18 13 13 20 18 13 0
+0 0 0 0 0
+29 0 0 0 1 1 0
+0 0 65575 112 0 1048576 3 2
+> all_greet_prog 100~
+say I've seen you coming.
+say Answer carefully, your life depends on it.  You have two options.
+say You may answer my question.
+say You may ask for a quick death.
+say What shall it be $n?~
+> speech_prog question~
+say Which one of my brothers is associated with magic?~
+> speech_prog quick death~
+chuckle $n
+say Haha!  Coward!  Get out of my temple!
+say Come back later and I'll have to slay you.
+say Now begone pathetic mortal.
+mptransfer $n 50000
+mpechoat $n You awaken later in a sweat somewhere inside the jungle.
+mpgoto 50095~
+> speech_prog puma~
+say Oh, very good.  How about another?
+snicker
+say You may answer my question.
+say You may ask for a quick death.
+say What shall it be $n?
+mpmload 50020
+mpgoto 50095~
+> speech_prog cougar cheetah jaguar panther leopard tiger lion~
+say WRONG!
+mpslay $n
+mpgoto 50095~
+|
+#50019
+cat saber tooth tiger~
+a saber-tooth tiger~
+An extremely large cat is here, with extremely large teeth.
+~
+This creature is over six feet long, with large, no, very large teeth.
+In fact its two front canine teeth are nearly as long as sabers.  In
+resembles a tan mountaion lion, except it is a hell of a lot bigger.
+~
+99 8360 0 C
+42 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+18 13 13 20 18 13 0
+0 0 0 0 0
+29 0 0 0 1 1 0
+0 0 134283297 0 0 0 3 2
+> death_prog 100~
+if rand (25)
+mpoload 50027
+else
+if rand (33)
+mpoload 50028
+else
+if rand (50)
+mpoload 50029
+else
+mpoload 50030
+endif
+endif
+endif
+drop all~
+> all_greet_prog 50~
+if ispc($n)
+snarl
+endif 
+~
+|
+#50020
+cat lord~
+The Cat Lord~
+A man with distinct feline features is standing here.
+~
+This man has very distinct feline features.  His nose is slender, as
+are his hands and feet.  His skin is covered with more hair than most
+humans, but it is light in color and lays close to his skin.  About
+his body he is wearing regal garmets that are quite different than
+the simple native folk who worship this being.  There is a powerful
+aura that is surround this being, as if in addition to being part-
+man, part-cat, he is also part-divine.
+~
+67 4202664 0 C
+65 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+18 13 13 20 18 13 0
+0 0 0 0 0
+29 0 0 0 1 1 0
+0 0 65575 112 0 1048576 3 2
+> speech_prog question~
+say Which of my brothers saved Tiger?~
+> speech_prog cougar~
+say Hmm...  Another?
+snicker
+say You may answer my question.
+say You may ask for a quick death.
+say What shall it be $n?
+mpmload 50021
+mpgoto 50095~
+> speech_prog quick death~
+say As you wish...
+cackle
+mpslay $n
+mpgoto 50095~
+> speech_prog puma cheetah jaguar panther leopard tiger lion~
+say Sorry, but no...
+say Now you must die.
+mpslay $n
+mpgoto 50095
+~
+> all_greet_prog 100~
+say I've seen you coming.
+say Answer carefully, your life depends on it.  You have two options.
+say You may answer my question.
+say You may ask for a quick death.
+say What shall it be $n?~
+|
+#50021
+cat lord~
+The Cat Lord~
+A man with distinct feline features is standing here.
+~
+This man has very distinct feline features.  His nose is slender, as
+are his hands and feet.  His skin is covered with more hair than most
+humans, but it is light in color and lays close to his skin.  About
+his body he is wearing regal garmets that are quite different than
+the simple native folk who worship this being.  There is a powerful
+aura that is surround this being, as if in addition to being part-
+man, part-cat, he is also part-divine.
+~
+67 4202664 0 C
+65 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+18 13 13 20 18 13 0
+0 0 0 0 0
+29 0 0 0 1 1 0
+0 0 65575 112 0 1048576 3 2
+> speech_prog question~
+ponder
+say Which brother is know for their great agility?
+~
+> speech_prog cheetah~
+say Well done.  Another?
+snicker
+say You may answer my question.
+say You may ask for a quick death.
+say What shall it be $n?
+mpmload 50022
+mpgoto 50095~
+> speech_prog quick death~
+say As you wish...
+cackle
+mpslay $n
+mpgoto 50095~
+> speech_prog puma cougar jaguar panther leopard tiger lion~
+chuckle
+say Nope.
+say Die.
+mpslay $n
+mpgoto 50095~
+> all_greet_prog 100~
+say I've seen you coming.
+say Answer carefully, your life depends on it.  You have two options.
+say You may answer my question.
+say You may ask for a quick death.
+say What shall it be $n?~
+|
+#50022
+cat lord~
+The Cat Lord~
+A man with distinct feline features is standing here.
+~
+This man has very distinct feline features.  His nose is slender, as
+are his hands and feet.  His skin is covered with more hair than most
+humans, but it is light in color and lays close to his skin.  About
+his body he is wearing regal garmets that are quite different than
+the simple native folk who worship this being.  There is a powerful
+aura that is surround this being, as if in addition to being part-
+man, part-cat, he is also part-divine.
+~
+67 4202664 0 C
+65 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+18 13 13 20 18 13 0
+0 0 0 0 0
+29 0 0 0 1 1 0
+0 0 65575 112 0 1048576 3 2
+> speech_prog question~
+say You are doing impressive.
+say I would hate...
+grin
+say To have to slay you.
+say Which of the brothers first rose up against Lion?
+~
+> speech_prog quick death~
+say As you wish...
+cackle
+mpslay $n
+mpgoto 50095~
+> speech_prog jaguar~
+say Four more questions and we shall be done.
+smile
+say You know the drill by know I hope.
+say What shall it be $n?
+mpmload 50023
+mpgoto 50095~
+> speech_prog puma cheetah cougar panther leopard tiger lion~
+say Sorry, but I must kill you.
+mpslay $n
+mpgoto 50095~
+> all_greet_prog 100~
+say I've seen you coming.
+say Answer carefully, your life depends on it.  You have two options.
+say You may answer my question.
+say You may ask for a quick death.
+say What shall it be $n?~
+|
+#50023
+cat lord~
+The Cat Lord~
+A man with distinct feline features is standing here.
+~
+This man has very distinct feline features.  His nose is slender, as
+are his hands and feet.  His skin is covered with more hair than most
+humans, but it is light in color and lays close to his skin.  About
+his body he is wearing regal garmets that are quite different than
+the simple native folk who worship this being.  There is a powerful
+aura that is surround this being, as if in addition to being part-
+man, part-cat, he is also part-divine.
+~
+67 4202664 0 C
+65 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+18 13 13 20 18 13 0
+0 0 0 0 0
+29 0 0 0 1 1 0
+0 0 65575 112 0 1048576 3 2
+> speech_prog question~
+say Don't get to sure of yourself mortal.
+growl
+say Which brother had last pick on appearance?
+~
+> speech_prog quick death~
+say As you wish...
+cackle
+mpslay $n
+mpgoto 50095~
+> speech_prog panther~
+say Ahh... maybe I underestimated you.
+say Naw... you're as dumb as the rest.
+say Question or death!
+mpmload 50024
+mpgoto 50095~
+> speech_prog puma cheetah cougar jaguar leopard tiger lion~
+say Sorry, that answer is incorrect.
+mpslay $n
+mpgoto 50095~
+> all_greet_prog 100~
+say I've seen you coming.
+say Answer carefully, your life depends on it.  You have two options.
+say You may answer my question.
+say You may ask for a quick death.
+say What shall it be $n?~
+|
+#50024
+cat lord~
+The Cat Lord~
+A man with distinct feline features is standing here.
+~
+This man has very distinct feline features.  His nose is slender, as
+are his hands and feet.  His skin is covered with more hair than most
+humans, but it is light in color and lays close to his skin.  About
+his body he is wearing regal garmets that are quite different than
+the simple native folk who worship this being.  There is a powerful
+aura that is surround this being, as if in addition to being part-
+man, part-cat, he is also part-divine.
+~
+67 4202664 0 C
+65 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+18 13 13 20 18 13 0
+0 0 0 0 0
+29 0 0 0 1 1 0
+0 0 65575 112 0 1048576 3 2
+> speech_prog question~
+smirk
+say Ok, which brother once had a hundred eyes?
+~
+> speech_prog quick death~
+say As you wish...
+cackle
+mpslay $n
+mpgoto 50095~
+> speech_prog leopard~
+say Two more, what is your choice $n?
+mpmload 50025
+mpgoto 50095~
+> speech_prog puma cheetah cougar jaguar panther tiger lion~
+say Incorrect.
+mpslay $n
+mpgoto 50095~
+> all_greet_prog 100~
+say I've seen you coming.
+say Answer carefully, your life depends on it.  You have two options.
+say You may answer my question.
+say You may ask for a quick death.
+say What shall it be $n?~
+|
+#50025
+cat lord~
+The Cat Lord~
+A man with distinct feline features is standing here.
+~
+This man has very distinct feline features.  His nose is slender, as
+are his hands and feet.  His skin is covered with more hair than most
+humans, but it is light in color and lays close to his skin.  About
+his body he is wearing regal garmets that are quite different than
+the simple native folk who worship this being.  There is a powerful
+aura that is surround this being, as if in addition to being part-
+man, part-cat, he is also part-divine.
+~
+67 4202664 0 C
+65 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+18 13 13 20 18 13 0
+0 0 0 0 0
+29 0 0 0 1 1 0
+0 0 65575 112 0 1048576 3 2
+> speech_prog tiger~
+say Last one...
+say It should not be that hard.
+say Question or death!
+mpmload 50026
+mpgoto 50095~
+> speech_prog quick death~
+say As you wish...
+cackle
+mpslay $n
+mpgoto 50095~
+> speech_prog question~
+say Who did jaguar nearly defeat with his magic?
+~
+> speech_prog puma cheetah cougar jaguar panther leopard lion~
+shake
+say Nope.
+mpslay $n
+mpgoto 50095~
+> all_greet_prog 100~
+say I've seen you coming.
+say Answer carefully, your life depends on it.  You have two options.
+say You may answer my question.
+say You may ask for a quick death.
+say What shall it be $n?~
+|
+#50026
+cat lord~
+The Cat Lord~
+A man with distinct feline features is standing here.
+~
+This man has very distinct feline features.  His nose is slender, as
+are his hands and feet.  His skin is covered with more hair than most
+humans, but it is light in color and lays close to his skin.  About
+his body he is wearing regal garmets that are quite different than
+the simple native folk who worship this being.  There is a powerful
+aura that is surround this being, as if in addition to being part-
+man, part-cat, he is also part-divine.
+~
+67 4202664 0 C
+65 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+18 13 13 20 18 13 0
+0 0 0 0 0
+29 0 0 0 1 1 0
+0 0 65575 112 0 1048576 3 2
+> speech_prog question~
+say Who am I?~
+> speech_prog quick death~
+say As you wish...
+cackle
+mpslay $n
+mpgoto 50095~
+> speech_prog lion~
+nod
+say Yes, I am the incarnation of the great Lion.
+say Your knowledge of my kind is great indeed.
+say Yet, your crimes are great, you have slain
+say many of my brothers and true followers.
+say Know ye cannot truely destroy me, I am a god.
+say However, I will not use all my powers to
+say destroy you, and if you defeat my mortal form
+say you shall be allowed to take whatever treasure
+say I have, as well the lessons you have learned.
+say Be warned though, harm another feline and
+say I shall return to slay you.
+mpoload 50035
+mpoload 50036
+drop all
+mpgoto 50095
+~
+> speech_prog puma cheetah cougar jaguar panther leopard tiger~
+say So far... only to die.
+mpslay $n
+mpgoto 50095~
+> all_greet_prog 100~
+say I've seen you coming.
+say Answer carefully, your life depends on it.  You have two options.
+say You may answer my question.
+say You may ask for a quick death.
+say What shall it be $n?~
+|
+#50027
+cat lord~
+Unused Cat Lord~
+A man with distinct feline features is standing here.
+~
+This man has very distinct feline features.  His nose is slender, as
+are his hands and feet.  His skin is covered with more hair than most
+humans, but it is light in color and lays close to his skin.  About
+his body he is wearing regal garmets that are quite different than
+the simple native folk who worship this being.  There is a powerful
+aura that is surround this being, as if in addition to being part-
+man, part-cat, he is also part-divine.
+~
+67 4202664 0 C
+65 0 0 0d0+0 0d0+0
+6500 0
+8 8 0
+18 13 13 20 18 13 0
+0 0 0 0 0
+29 0 0 0 1 1 0
+0 0 65575 112 0 1048576 3 2
+> death_prog 100~
+mpecho As Lion dies you see an mist-like aura escape
+mpecho the fallen corpse and from the mist a key drops.
+mpecho Perhaps Lion will return again someday...
+mpoload 50034
+drop all~
+> all_greet_prog 100~
+say Hmm... I am kind of hungry.
+say You will do nicely...
+lick
+mpkill $n
+~
+|
+#50028
+stone panther~
+a stone panther~
+A statue of a cat is here standing motionless.
+~
+This creature looks exactly like its real-life counterpart except that
+it is made of stone.
+~
+99 106536 0 C
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+18 13 13 20 18 13 0
+0 0 0 0 0
+34 0 0 0 1 1 0
+0 0 0 0 0 0 1048577 2
+#50029
+stone leopard~
+a stone leopard~
+A statue of a cat is here standing motionless.
+~
+This creature looks exactly like its real-life counterpart except that
+it is made of stone.
+~
+99 8232 0 C
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+18 13 13 20 18 13 0
+0 0 0 0 0
+34 0 0 0 1 1 0
+0 0 0 0 0 0 1048577 2
+#50030
+stone tiger~
+a stone tiger~
+A statue of a cat is here standing motionless.
+~
+This creature looks exactly like its real-life counterpart except that
+it is made of stone.
+~
+99 8232 0 C
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+18 13 13 20 18 13 0
+0 0 0 0 0
+34 0 0 0 1 1 0
+0 0 0 0 0 0 1048577 2
+#50031
+stone lion~
+a stone lion~
+A statue of a cat is here standing motionless.
+~
+This creature looks exactly like its real-life counterpart except that
+it is made of stone.
+~
+99 8232 0 C
+35 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+18 13 13 20 18 13 0
+0 0 0 0 0
+34 0 0 0 1 1 0
+0 0 0 0 0 0 1048577 2
+#50032
+giant mosquito~
+a giant mosquito~
+A giant mosquito darts around the gulch here.
+~
+Mosquitos can get real big in the rain-forest.  This guy has a wing-
+span of nearly a foot!  Damn, who knows what kind of things this bug
+is carring around!
+~
+67 65536 0 C
+2 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 18 13 13 13
+0 0 0 0 0
+83 0 0 0 1 1 0
+0 0 32768 0 0 0 1 0
+#50033
+monsterous anaconda~
+a monsterous anaconda~
+A giant snakes makes it way through the jungle here.
+~
+This snake  is huge, almost big enough to swollow you whole!  It keeps 
+its glossy eyes on you as you move through the jungle.  This snake is
+proably over fifteen feet long, although much of its body is hidden in
+the dense foilage.
+~
+97 98336 0 C
+15 0 0 0d0+0 0d0+0
+0 0
+8 8 0
+13 13 13 15 13 13 13
+0 0 0 0 0
+62 0 0 0 1 1 0
+0 0 1 0 256 0 0 0
+#50034
+reptilian outcast~
+a reptilian outcast~
+A reptilian is here with a crazed look in her eyes.
+~
+This reptilian is strong and powerful looking.  The creature has green
+scales, and is wearing almost no clothing.~
+97 32 -700 C
+10 0 0 0d0+0 0d0+0
+237 0
+8 8 2
+13 13 13 13 13 13 13
+0 0 0 0 0
+79 0 0 0 1 1 0
+0 0 152 0 0 0 0 0
+#0
+
+
+#OBJECTS
+#50000
+stone feline sculpture~
+a stone feline sculpture~
+A feline sculpture stands here, carved from a large block of stone.~
+~
+12 0 0
+0 0 0 0
+500 0 0
+E
+stone feline sculpture~
+This sculpture is representative of some cross between of man and a
+cat.  Around the base of the scultpure are various kinds of cats of
+different sizes, shapes, and textures.  The artists are not concerned
+with perfect representation of either human or animal forms.  In some
+instances the sculptor has exaggerated the claws or teeth of the cat,
+and in the case of the larger statue the feline qualities of the man.
+Overall the thing gives you an impression of a reserved creature who
+wishes to be left alone.  There are some inscriptions along the back
+of the sculpture that can be inspected closer.  Within the palms of
+the man-cat being, he holds a small obelisk.
+~
+E
+inscriptions~
+There are several inscriptions actually, they translate:
+
+"Sacred ground nearby..."
+
+"Death to those who harm the sacred animal..."
+
+"Beware of the Cat Lord..."
+~
+#50001
+wildcat animal hide~
+a wildcat hide~
+An animal hide has been discarded here.~
+~
+13 262144 1025
+0 0 0 0
+5 0 0
+E
+wildcat animal hide~
+The hide is in relatively good shape, now if you could only find some
+person who could turn this hide into something a bit more useful.
+~
+#50002
+bobcat animal hide~
+a bobcat hide~
+An animal hide has been discarded here.~
+~
+13 262144 1025
+0 0 0 0
+5 0 0
+E
+bobcat animal hide~
+The hide is in relatively good shape, now if you could only find some
+person who could turn this hide into something a bit more useful.
+~
+#50003
+ocelot animal hide~
+an ocelot hide~
+An animal hide has been discarded here.~
+~
+13 262144 1025
+0 0 0 0
+5 0 0
+E
+ocelot animal hide~
+The hide is in relatively good shape, now if you could only find some
+person who could turn this hide into something a bit more useful.
+~
+#50004
+lynx animal hide~
+a lynx hide~
+An animal hide has been discarded here.~
+~
+13 262144 1025
+0 0 0 0
+5 0 0
+E
+lynx animal hide~
+The hide is in relatively good shape, now if you could only find some
+person who could turn this hide into something a bit more useful.
+~
+#50005
+mountain lion animal hide~
+a mountain-lion hide~
+An animal hide has been discarded here.~
+~
+13 262144 1025
+0 0 0 0
+5 0 0
+E
+mountain lion animal hide~
+The hide is in relatively good shape, now if you could only find some
+person who could turn this hide into something a bit more useful.
+~
+#50006
+puma animal hide~
+a puma hide~
+An animal hide has been discarded here.~
+~
+13 262144 1025
+0 0 0 0
+5 0 0
+E
+puma animal hide~
+The hide is in relatively good shape, now if you could only find some
+person who could turn this hide into something a bit more useful.
+~
+#50007
+cougar animal hide~
+a cougar hide~
+An animal hide has been discarded here.~
+~
+13 262144 1025
+0 0 0 0
+5 0 0
+E
+cougar animal hide~
+The hide is in relatively good shape, now if you could only find some
+person who could turn this hide into something a bit more useful.
+~
+#50008
+cheetah animal hide~
+a cheetah hide~
+An animal hide has been discarded here.~
+~
+13 262144 1025
+0 0 0 0
+5 0 0
+E
+cheetah animal hide~
+The hide is in relatively good shape, now if you could only find some
+person who could turn this hide into something a bit more useful.
+~
+#50009
+jaguar animal hide~
+a jaguar hide~
+An animal hide has been discarded here.~
+~
+13 262144 1025
+0 0 0 0
+5 0 0
+E
+jaguar animal hide~
+The hide is in relatively good shape, now if you could only find some
+person who could turn this hide into something a bit more useful.
+~
+#50010
+panther animal hide~
+a panther hide~
+An animal hide has been discarded here.~
+~
+13 262144 1025
+0 0 0 0
+5 0 0
+E
+panther animal hide~
+The hide is in relatively good shape, now if you could only find some
+person who could turn this hide into something a bit more useful.
+~
+#50011
+leopard animal hide~
+a leopard hide~
+An animal hide has been discarded here.~
+~
+13 262144 1025
+0 0 0 0
+5 0 0
+E
+leopard animal hide~
+The hide is in relatively good shape, now if you could only find some
+person who could turn this hide into something a bit more useful.
+~
+#50012
+tiger animal hide~
+a tiger hide~
+An animal hide has been discarded here.~
+~
+13 262144 1025
+0 0 0 0
+5 0 0
+E
+tiger animal hide~
+The hide is in relatively good shape, now if you could only find some
+person who could turn this hide into something a bit more useful.
+~
+#50013
+lion animal hide~
+a lion hide~
+An animal hide has been discarded here.~
+~
+13 262144 1025
+0 0 0 0
+5 0 0
+E
+lion animal hide~
+The hide is in relatively good shape, now if you could only find some
+person who could turn this hide into something a bit more useful.
+~
+#50014
+wildcat gloves~
+a pair of wildcat-skin gloves~
+A pair of gloves made from a wildcat are here on the ground.~
+~
+9 262144 129
+0 0 0 0
+2 0 0
+E
+wildcat gloves~
+This item was made from the skin of a feline.  The craftsmanship is
+excellent, and it is highly functional.
+~
+A
+1 1
+A
+2 1
+A
+19 1
+A
+18 1
+#50015
+bobcat boots~
+a pair of bobcat-skin boots~
+A pair of boots made from bobcat hide are discarded here.~
+~
+9 262144 65
+0 0 0 0
+4 0 0
+E
+bobcat boots~
+This item was made from the skin of a feline.  The craftsmanship is
+excellent, and it is highly functional.
+~
+A
+2 1
+A
+12 10
+A
+19 1
+#50016
+ocelot belt~
+an ocelot-skin belt~
+A belt of ocelot hide has been thrown down here.~
+~
+9 262144 2049
+0 0 0 0
+3 0 0
+E
+ocelot belt~
+This item was made from the skin of a feline.  The craftsmanship is
+excellent, and it is highly functional.
+~
+A
+14 10
+A
+2 1
+A
+18 1
+#50017
+lynx headband~
+a lynx-skin headband~
+A headband made from a lynx hide has been pitched here.~
+~
+9 262144 17
+0 0 0 0
+2 0 0
+E
+lynx headband~
+This item was made from the skin of a feline.  The craftsmanship is
+excellent, and it is highly functional.
+~
+A
+19 1
+A
+18 1
+#50018
+mountain lion tunic~
+a mountain-lion-skin tunic~
+A tunic made from a mountain-lion has been left behind here.~
+~
+9 262144 9
+0 0 0 0
+3 0 0
+E
+mountain lion tunic~
+This item was made from the skin of a feline.  The craftsmanship is
+excellent, and it is highly functional.
+~
+A
+19 1
+A
+18 1
+#50019
+puma vest~
+a puma-skin vest~
+A vest from from a puma hide has been dropped here.~
+~
+9 262144 9
+0 0 0 0
+2 0 0
+E
+puma vest~
+This item was made from the skin of a feline.  The craftsmanship is
+excellent, and it is highly functional.
+~
+A
+12 10
+A
+3 1
+#50020
+cougar armbands~
+a cougar-skin armbands~
+Some armbands made from a cougar are cast aside here on the ground.~
+~
+9 262144 257
+0 0 0 0
+3 0 0
+E
+cougar armbands~
+This item was made from the skin of a feline.  The craftsmanship is
+excellent, and it is highly functional.
+~
+A
+5 1
+A
+13 10
+A
+14 10
+#50021
+cheetah cloak~
+a cheetah-skin cloak~
+A cloak made from a cheetah hide has been dropped here.~
+~
+9 262144 1025
+0 0 0 0
+4 0 0
+E
+cheetah cloak~
+This item was made from the skin of a feline.  The craftsmanship is
+excellent, and it is highly functional.
+~
+A
+2 1
+A
+13 10
+A
+12 10
+A
+18 1
+#50022
+jaguar bracer~
+a jaguar-skin bracer~
+A bracer made from a jaguar hide is here on the ground.~
+~
+9 262144 4097
+0 0 0 0
+3 0 0
+E
+jaguar bracer~
+This item was made from the skin of a feline.  The craftsmanship is
+excellent, and it is highly functional.
+~
+A
+25 1
+A
+19 1
+A
+18 1
+A
+13 10
+#50023
+panther facemask~
+a panther-skin facemask~
+A black facemask made from a pather hide has been placed here.~
+~
+9 262144 131073
+0 0 0 0
+2 0 0
+E
+panther facemask~
+This item was made from the skin of a feline.  The craftsmanship is
+excellent, and it is highly functional.
+~
+A
+4 1
+A
+12 10
+A
+2 1
+A
+13 10
+A
+19 1
+#50024
+leopard gloves~
+a pair of leopard-skin gloves~
+A pair of gloves made from a leopard are here.~
+~
+9 262144 129
+0 0 0 0
+3 0 0
+E
+leopard gloves~
+This item was made from the skin of a feline.  The craftsmanship is
+excellent, and it is highly functional.
+~
+A
+3 1
+A
+12 10
+A
+23 -1
+#50025
+tiger breeches~
+some tiger-skin breeches~
+A pair of breeches made from a tiger hide are here.~
+~
+9 262144 33
+0 0 0 0
+3 0 0
+E
+tiger breeches~
+This item was made from the skin of a feline.  The craftsmanship is
+excellent, and it is highly functional.
+~
+A
+13 10
+A
+19 1
+#50026
+lion cloak~
+a lion-skin cloak~
+A cloak made from a lion has been folded here on the ground.~
+~
+9 262144 1025
+0 0 0 0
+4 0 0
+E
+lion cloak~
+This item was made from the skin of a feline.  The craftsmanship is
+excellent, and it is highly functional.
+~
+A
+1 1
+A
+13 10
+A
+12 10
+A
+19 1
+A
+18 1
+#50027
+saber tooth~
+a saber-tooth~
+A large tooth of a feline has been discared here.~
+~
+9 262144 16385
+0 0 0 0
+5 0 0
+E
+saber tooth~
+This tooth has come from a giant saber-tooth tiger.
+~
+A
+18 3
+#50028
+saber tooth~
+a saber-tooth~
+A large tooth of a feline has been discared here.~
+~
+9 262144 16385
+0 0 0 0
+5 0 0
+E
+saber tooth~
+This tooth has come from a giant saber-tooth tiger.
+~
+A
+19 2
+#50029
+saber tooth~
+a saber-tooth~
+A large tooth of a feline has been discared here.~
+~
+9 262144 16385
+0 0 0 0
+5 0 0
+E
+saber tooth~
+This tooth has come from a giant saber-tooth tiger.
+~
+A
+13 40
+#50030
+saber tooth~
+a saber-tooth~
+A large tooth of a feline has been discared here.~
+~
+9 262144 16385
+0 0 0 0
+5 0 0
+E
+saber tooth~
+This tooth has come from a giant saber-tooth tiger.
+~
+A
+18 1
+A
+19 1
+A
+13 10
+#50031
+stone obelisk~
+an obelisk~
+An obelisk is here, half-hidden by the jungle.~
+~
+12 0 0
+0 0 0 0
+500 0 0
+E
+stone obelisk~
+Most of the original runes and symbols have been worn away, but you
+are still able to read:
+
+This area was made by Cianhydle (1999).
+This area is dedicated to my 2 cats, Baer and Lyons.
+~
+#50032
+natural spring~
+a natural spring~
+A natural spring is bubbling up from the ground here.~
+~
+25 0 0
+0 0 0 0
+500 0 0
+E
+natural spring~
+The spring is fresh and cool.  Being the paranoid you are, you check
+for poison and find none.  Perhaps you should force your charmed mob
+to drink first?
+~
+#50035
+feline longsword baer~
+a longsword named, "Baer"~
+A feline longsword has been dropped here.~
+~
+5 524352 8193
+0 0 0 0
+12 0 0
+E
+feline longsword baer~
+This long blade is in excellent condition, and appears to be part of
+a matching set of weapons.
+~
+A
+19 3
+A
+18 3
+#50036
+feline shortsword lyons~
+a shortsword named, "Lyons"~
+A feline shortsword has been dropped here.~
+~
+5 524352 8193
+0 0 0 0
+8 0 0
+E
+feline shortsword lyons~
+This short blade is in excellent condition, and appears to be part of
+a matching set of weapons.
+~
+A
+18 3
+A
+19 3
+#50037
+puma feline sculpture~
+a puma sculpture~
+A feline sculpture has been made of stone here.~
+~
+12 0 0
+0 0 0 0
+150 0 0
+E
+puma feline sculpture~
+An ancient inscription at the base of the statue reads:
+
+"Puma is brother to Panther and Jaguar, and with them took up against
+Lion and his loyal followers.  When each cat was given a power Puma
+took interest in what human call magic, although great Lion was immune
+to this magic of Puma.  It was this magic which almost cost Tiger his
+life in the Great Battle.  Just as Puma was about to cast a spell to
+finish off the injured Tiger, Cougar charged across the battlefield
+and tackled Puma.  Ever since the rivalry between the two is without
+measure."
+~
+#50038
+cougar feline sculpture~
+a cougar sculpture~
+A feline sculpture has been made of stone here.~
+~
+12 0 0
+0 0 0 0
+150 0 0
+E
+cougar feline sculpture~
+An ancient inscription at the base of the statue reads:
+
+"When Jaguar convienced Puma and Panther to strike against Lion, and
+the others, the Cougar sided with Lion and in the course of the battle
+quickly moved across the battlefield and saved the life of Tiger.  For
+his service, Lion rewarded him for his valor by granted him a small
+amount of Tiger's health in addition to his own natural movement."
+~
+#50039
+cheetah feline sculpture~
+a cheetah sculpture~
+A feline sculpture has been made of stone here.~
+~
+12 0 0
+0 0 0 0
+150 0 0
+E
+cheetah feline sculpture~
+An ancient inscription at the base of the statue reads:
+
+"When each cat was give a special ability the Cheetah chose speed so
+that it might be able to outrun prey.  Lion, not being the wisest,
+did not understand the consequences of this, and after stealing the
+first take of the first hunt, the lion has been making the cheetah
+run ever since.  Hence the cheetah is said to be representative of
+speed, agility, and hand-eye co-ordination."
+~
+#50040
+jaguar feline sculpture~
+a jaguar sculpture~
+A feline sculpture has been made of stone here.~
+~
+12 0 0
+0 0 0 0
+150 0 0
+E
+jaguar feline sculpture~
+An ancient inscription at the base of the statue reads:
+
+"Jaguar was once as powerful as Tiger and ruled one half of Lion's
+kingdom.  Through his charms Jaguar was able to trick his brothers
+Panther and Puma into going again Lion, and a great war was fought
+between the the cat-kind.  Eventually Lion and his allies won the
+fight, and only through his slick words was Jaguar able to escape
+the wrath of Lion.  The jaguar has since come to reflect charisma,
+and to a lesser degree betrayal."
+~
+#50041
+panther feline sculpture~
+a panther sculpture~
+A feline sculpture has been made of stone here.~
+~
+12 0 0
+0 0 0 0
+150 0 0
+E
+panther feline sculpture~
+An ancient inscription at the base of the statue reads:
+
+"When the jungle was created and the animals were given a choice of
+appearance and abilities Lion took first pick.   Lion chose a flowing
+mane and strength that would set him above all the other cats, and so
+in turn the cats chose what they would look like and their strengths
+until all the different colors and strengths had already been chosen.
+Panther laughed as he wished no color, save that of midnight on a
+moonless night, knowing he would be able to go as he wished unseen
+by his brothers, and thus have a power.  While not the largest or
+fastest the Panther showed the most wisdom when chosing and has
+since come to reflect wisdom and forethought."
+~
+#50042
+leopard feline sculpture~
+a leopard sculpture~
+A feline sculpture has been made of stone here.~
+~
+12 0 0
+0 0 0 0
+150 0 0
+E
+leopard feline sculpture~
+An ancient inscription at the base of the statue reads:
+
+"It is said once that the leopards spots were once eyes, from which it
+was able to see everything that happened in the jungle.  Lion and
+Tiger did not trust Leopard and tore from its body its hundreds of
+eyes, however, it did not stop Leopard from retaining everything that
+it had learned from seeing everything.  Thus the leopard symbolizes
+intelligence."
+~
+#50043
+tiger feline sculpture~
+a tiger sculpture~
+A feline sculpture has been made of stone here.~
+~
+12 0 0
+0 0 0 0
+150 0 0
+E
+tiger feline sculpture~
+An ancient inscription at the base of the statue reads:
+
+"From the tiger comes stamina and health, and it is only second to the
+power of the lion.  During the time of the War of the Cats, Tiger
+sided with his brother Lion, but was overwhelmed by the magic of Puma.
+If it were not for the movement and courage of Cougar, Tiger surely
+would have been slain, and in return Tiger asked Lion to give a bit of
+his life-blood to cougar, and the two have been friends ever since."
+~
+#50044
+lion feline sculpture~
+a lion sculpture~
+A feline sculpture has been made of stone here.~
+~
+12 0 0
+0 0 0 0
+150 0 0
+E
+lion feline sculpture~
+An ancient inscription at the base of the statue reads:
+
+"From Lion comes strength, for He is the strongest of all the cat
+kind.  He was created first to rule over all the cats, and only once
+was this challenged, and then only by an alliance of the Puma, Jaguar,
+and Panther.  Tiger and Cougar remained loyal to the lion, as did all
+the minor cats, during this time of strife.  Cheetah and Leopard were
+neutral towards this war, more or less fearing of invoking the wrath
+of Lion again.  Eventually this fight was won and Lion's authority has
+not been challenged since."
+~
+#50045
+wooden cat mask~
+a wooden cat-mask~
+A mask made of wood, that kind of looks like a cat, is here.~
+~
+9 266256 17
+0 0 0 0
+10 0 0
+E
+wooden cat mask~
+Hmm... there is something wicked about this mask but you can not put
+your finger one it exactly.  Maybe wearing it would help?
+~
+#50046
+thatched shield~
+a thatched shield~
+A thatched shield has been discarded here.~
+~
+9 262144 513
+0 0 0 0
+3 0 0
+E
+thatched shield~
+Pretty crude item.
+~
+#50047
+wooden spear~
+a wooden spear~
+A wooden spear has been cast away here.~
+~
+5 262144 8193
+0 0 0 0
+6 0 0
+E
+wooden spear~
+This item is very crude and is only used by primative natives and NOT,
+repeat NOT, by adventuring types like yourself, now drop it.
+~
+> exa_prog 100~
+mpforce $n drop wooden jungle spear~
+|
+#50048
+cat idol~
+a cat idol~
+A cat idol has been placed here collecting dust.~
+~
+9 64 16385
+0 0 0 0
+1 0 0
+E
+cat idol~
+This idol is made of gold, silver, and is shaped like a small house
+cat sitting on a pedestal.
+~
+A
+12 30
+#50052
+feline sculpture~
+a feline sculpture~
+A feline sculpture has been made of stone here.~
+~
+12 0 0
+0 0 0 0
+150 0 0
+E
+feline sculpture~
+This sculpture has been worn down over the years and you can only tell
+it is supposed to be some sort of big cat.  Any inscriptions here have
+long since disappeared.
+~
+#50055
+cat claw necklace~
+a cat-claw necklace~
+A necklace made of two inch long claws is here on the ground.~
+~
+8 262144 5
+0 0 0 0
+2 0 0
+E
+cat claw necklace~
+This item is some sort of treasure valued by a reptilian hunter.  Who
+ever must have made this necklace surely was a powerful warrior.
+~
+A
+13 10
+A
+18 1
+#0
+
+
+#ROOMS
+#50000
+Exploring the Dense Rain-Forest~
+A path leads down and through the dense foilage here in the rain-
+forest.  The air here is humid and there is little wind.  To the
+east there is an obelisk half-covered by the vegetation just off
+the side of the barely visible pathway.
+~
+0 4 3
+D1
+~
+~
+0 -1 50001
+D4
+~
+~
+0 -1 2248
+S
+#50001
+Near a Hidden Obelisk~
+An obelisk is here practically hidden by the foilage of the rain-
+forest.  Northward another stone object is visible, some kind of
+native idol or some such nonsense you suspect.  To the west the
+path leads back through the foilage.
+~
+0 0 3
+D0
+~
+~
+0 -1 50002
+D3
+~
+~
+0 -1 50000
+S
+#50002
+Beside a Feline Sculpture~
+The feline sculpture is here along the path.  To the south there is
+an obelisk peeking out from the vegetation, while you can hear some
+sort of water running nearby to the north.  All around the foilage
+is thick, the air is humid, and the temperature hot.
+~
+0 0 3
+D0
+~
+~
+0 -1 50003
+D2
+~
+~
+0 -1 50001
+S
+#50003
+Close to a Natural Spring~
+Here admist the clutter of vegetation there is a natural spring that
+is bubbling up crystal clear spring water.  It looks safe to drink.
+A path runs north and south.  Looking north the path appears like it
+splits off in three directions.
+~
+0 0 3
+D0
+~
+~
+0 -1 50004
+D2
+~
+~
+0 -1 50002
+S
+#50004
+Overgrown Intersection~
+Here this path splits in three directions, to the east, south, and
+west.  Broad leaf trees hang out over the path, while just off the
+sides of the trail are ferns and other ground vegetation.
+~
+0 0 3
+D1
+~
+~
+0 -1 50005
+D2
+~
+~
+0 -1 50003
+D3
+~
+~
+0 -1 50009
+S
+#50005
+Overgrown Intersection~
+Here this path splits in three directions, to the east, north, and
+west.  Broad leaf trees hang out over the path, while just off the
+sides of the trail are ferns and other ground vegetation.
+~
+0 0 3
+D0
+~
+~
+0 -1 50006
+D1
+~
+~
+0 -1 50008
+D3
+~
+~
+0 -1 50004
+S
+#50006
+Following an Overgrown Path~
+The path leads to the north and south through the overgrown foilage.
+Perhaps this trail leads somewhere?  To the south the path splits off
+in three directions.
+~
+0 0 3
+D0
+~
+~
+0 -1 50007
+D2
+~
+~
+0 -1 50005
+S
+#50007
+Nearing a Stepped Pyramid~
+The pathway rises over a small ridge of ferns and a stepped pyramid
+comes into view to the north.  Along the steps there appear to be a
+number of animal statues as well as some native figures performing
+some kind of ritual.  The path also leads to the south.
+~
+0 4 3
+D0
+~
+~
+0 0 50011
+D2
+~
+~
+0 -1 50006
+S
+#50008
+Lower Rain-Forest Shelf~
+The rain-forest complete devours the pathway here with the dense
+foilage.  You think that maybe the pathway was to the west.  A rise
+is to the east leading up to another shelf in the rain-forest.  The
+whole place is green, moist, and annoyingly warm.
+~
+0 0 3
+D3
+~
+~
+0 -1 50005
+D4
+~
+~
+0 -1 50074
+S
+#50009
+Exploring the Dense Rain-Forest~
+The rain-forest complete devours the pathway here with the dense
+foilage.  You think that maybe the pathway was to the east.  Here
+and there an animal can be spotted, but most everything here is one
+shade of green or another.
+~
+0 0 3
+D0
+~
+~
+0 -1 50010
+D1
+~
+~
+0 -1 50004
+S
+#50010
+Sunken Rain-Forest Gulch~
+This area is very dense here, making travel slow and akward.  A small
+bluff is to the north leading up to another shelf.  All around are
+thousands of different shades of green.  The ground is wet and moist
+in this gulch, the perfect place to live if you were a giant insect.
+~
+0 0 3
+D2
+~
+~
+0 -1 50009
+D4
+~
+~
+0 -1 50083
+S
+#50011
+Walking around a Stepped Pyramid~
+There is an area cleared around the pyramid where there are various
+feline stone statues have been placed.  The stepped monument is to the
+north while the path continues to the east and west.  To the south is
+a fairly easy to travel a pathway through the rain-forest.
+~
+0 0 3
+D1
+~
+~
+0 0 50012
+D2
+~
+~
+0 0 50007
+D3
+~
+~
+0 0 50026
+S
+#50012
+Walking around a Stepped Pyramid~
+The lands immediately surround the pyramid have been cleared and every
+so often a stone sculpture has been errected.  To the north steps lead
+up to the next step of the pyramid while the path continues east and
+west.  South the dense rain-forest looks impassable.
+~
+0 0 3
+D0
+~
+~
+0 -1 50028
+D1
+~
+~
+0 -1 50013
+D3
+~
+~
+0 0 50011
+S
+#50013
+Walking around a Stepped Pyramid~
+Here is the southeast corner of the stepped pyramid.  There has been
+an area cleared out around pyramid and placed with feline-like stone
+scultpure.  The pathway continues to the north and west, while to the
+east the rain-forest looks easy enough to travel.
+~
+0 0 3
+D0
+~
+~
+0 -1 50014
+D1
+~
+~
+0 -1 50069
+D3
+~
+~
+0 -1 50012
+S
+#50014
+Walking around a Stepped Pyramid~
+This pathway around the pyramid runs north and south.  To the west
+steps lead up to the next tier of the pyramid while the rain-forest
+looks particularly dense to the east.  A variety of sculptures are
+set every so often along cleared path.
+~
+0 0 3
+D0
+~
+~
+0 -1 50015
+D2
+~
+~
+0 -1 50013
+D3
+~
+~
+0 -1 50028
+S
+#50015
+Walking around a Stepped Pyramid~
+The stepped pyramid is just to the west.  A pathway has been cleared
+running around the perimeter of the pyramid dotted with many life-size
+sculptures of various cats.  Off to the east the rain-forest looks to
+be extremely dense.
+~
+0 0 3
+D0
+~
+~
+0 -1 50016
+D2
+~
+~
+0 -1 50014
+S
+#50016
+Walking around a Stepped Pyramid~
+This pathway around the pyramid runs north and south.  To the west
+steps lead up to the next tier of the pyramid while the rain-forest
+looks particularly dense to the east.  A variety of sculptures are
+set every so often along cleared path.
+~
+0 0 3
+D0
+~
+~
+0 -1 50017
+D2
+~
+~
+0 -1 50015
+D3
+~
+~
+0 -1 50029
+S
+#50017
+Walking around a Stepped Pyramid~
+Here is the northeast corner of the stepped pyramid.  There has been
+an area cleared out around rain-forest pyramid and placed with feline
+stone scultpure.  The pathway continues to the south and west, while
+to the east the rain-forest looks easy enough to travel.
+~
+0 0 3
+D1
+~
+~
+16777216 -1 50075
+D2
+~
+~
+0 -1 50016
+D3
+~
+~
+0 -1 50018
+S
+#50018
+Walking around a Stepped Pyramid~
+The lands immediately surround the pyramid have been cleared and every
+so often a stone sculpture has been errected.  To the south steps lead
+up to the next step of the pyramid while the path continues east and
+west.  North the dense rain-forest looks impassable.
+~
+0 0 3
+D1
+~
+~
+0 -1 50017
+D2
+~
+~
+0 -1 50029
+D3
+~
+~
+0 -1 50019
+S
+#50019
+Walking around a Stepped Pyramid~
+There is an area cleared around the pyramid where there are various
+feline stone statues have been placed.  The stepped monument is to the
+south while the path continues to the east and west.  To the north is
+a fairly easy spot to enter the rain-forest.
+~
+0 0 3
+D0
+~
+~
+0 -1 50084
+D1
+~
+~
+0 -1 50018
+D3
+~
+~
+0 -1 50020
+S
+#50020
+Walking around a Stepped Pyramid~
+The lands immediately surround the pyramid have been cleared and every
+so often a stone sculpture has been errected.  To the south steps lead
+up to the next step of the pyramid while the path continues east and
+west.  North the dense rain-forest looks impassable.
+~
+0 0 3
+D1
+~
+~
+0 -1 50019
+D2
+~
+~
+0 -1 50030
+D3
+~
+~
+0 -1 50021
+S
+#50021
+Walking around a Stepped Pyramid~
+Here is the northwest corner of the stepped pyramid.  There has been
+an area cleared out around rain-forest pyramid and placed with feline
+stone scultpure.  The pathway continues to the south and east, while
+to the west the rain-forest looks safe enough to explore.
+~
+0 0 3
+D1
+~
+~
+0 -1 50020
+D2
+~
+~
+0 -1 50022
+D3
+~
+~
+0 -1 50077
+S
+#50022
+Walking around a Stepped Pyramid~
+This pathway around the pyramid runs north and south.  To the east
+steps lead up to the next tier of the pyramid while the rain-forest
+looks particularly dense to the west.  A variety of sculptures are
+set every so often along cleared path.
+~
+0 0 3
+D0
+~
+~
+0 -1 50021
+D1
+~
+~
+0 -1 50030
+D2
+~
+~
+0 -1 50023
+S
+#50023
+Walking around a Stepped Pyramid~
+The stepped pyramid is just to the east.  A pathway has been cleared
+running around the perimeter of the pyramid dotted with life-size
+sculptures of various cats.  Off to the west the rain-forest looks
+to be extremely dense.
+~
+0 0 3
+D0
+~
+~
+0 -1 50022
+D2
+~
+~
+0 -1 50024
+S
+#50024
+Walking around a Stepped Pyramid~
+This pathway around the pyramid runs north and south.  To the east
+steps lead up to the next tier of the pyramid while the rain-forest
+looks particularly dense to the west, but no impassible.  A variety
+of cat sculptures are set every so often along cleared path.
+~
+0 0 3
+D0
+~
+~
+0 -1 50023
+D1
+~
+~
+0 -1 50027
+D2
+~
+~
+0 -1 50025
+D3
+~
+~
+0 -1 50081
+S
+#50025
+Walking around a Stepped Pyramid~
+Here is the southwest corner of the stepped pyramid.  There has been
+an area cleared out around rain-forest pyramid and placed with feline
+stone scultpure.  The pathway continues to the south and east.
+~
+0 0 3
+D0
+~
+~
+0 -1 50024
+D1
+~
+~
+0 -1 50026
+S
+#50026
+Walking around a Stepped Pyramid~
+The lands immediately surround the pyramid have been cleared and every
+so often a stone sculpture has been errected.  To the north steps lead
+up to the next step of the pyramid while the path continues east and
+west.  South the dense rain-forest looks almost too thick to navigate.
+~
+0 0 3
+D0
+~
+~
+0 -1 50027
+D1
+~
+~
+0 0 50011
+D3
+~
+~
+0 -1 50025
+S
+#50027
+Base of a set of Stone Stairs~
+Steps head up to the first set of steps of the pyramid.  Pathways head
+off to the the south and west out into the walkway around the pyramid.
+Around the edges of the walkway the dense rain-forest starts to grow.
+~
+0 4 1
+D2
+~
+~
+0 -1 50026
+D3
+~
+~
+0 -1 50024
+D4
+~
+~
+0 -1 50043
+S
+#50028
+Base of a set of Stone Stairs~
+Steps head up to the first set of steps of the pyramid.  Pathways head
+off to the the east and south out into the walkway around the pyramid.
+Around the edges of the walkway the dense rain-forest starts to grow.
+~
+0 4 1
+D1
+~
+~
+0 -1 50014
+D2
+~
+~
+0 -1 50012
+D4
+~
+~
+0 -1 50039
+S
+#50029
+Base of a set of Stone Stairs~
+Steps head up to the first set of steps of the pyramid.  Pathways head
+off to the the north and east out into the walkway around the pyramid.
+Around the edges of the walkway the dense rain-forest starts to grow.
+~
+0 4 1
+D0
+~
+~
+0 -1 50018
+D1
+~
+~
+0 -1 50016
+D4
+~
+~
+0 -1 50035
+S
+#50030
+Base of a set of Stone Stairs~
+Steps head up to the first set of steps of the pyramid.  Pathways head
+off to the the north and west out into the walkway around the pyramid.
+Around the edges of the walkway the dense rain-forest starts to grow.
+~
+0 4 1
+D0
+~
+~
+0 -1 50020
+D3
+~
+~
+0 -1 50022
+D4
+~
+~
+0 -1 50031
+S
+#50031
+Atop a set of Stone Steps~
+Steps lead down to rain-forest floor, while the first tier of the
+pyramid runs to the east and south.  A number of vines creep along
+the cracks of this step, while running up the sidewall of the next
+tier.
+~
+0 0 1
+D1
+~
+~
+0 -1 50032
+D2
+~
+~
+0 -1 50046
+D5
+~
+~
+0 -1 50030
+S
+#50032
+Walking on a Stepped Pyramid~
+The first step of the pyramid runs to the east and west here.  The
+step itself is around ten feet wide.  Vines slink along the cracks
+in the ground and climb up the wall of the next step to the south.
+Every so often a stone feline sculpture is atop the stepped pyramid.
+~
+0 0 1
+D1
+~
+~
+0 -1 50033
+D3
+~
+~
+0 -1 50031
+S
+#50033
+Walking on a Stepped Pyramid~
+The first step of the pyramid runs to the east and west here.  The
+step itself is around ten feet wide.  Vines slink along the cracks
+in the ground and climb up the wall of the next step to the south
+around an archway.  Beyond the archway steps have been carved into
+the stone, leading up to the next tier.
+~
+0 0 1
+D1
+~
+~
+0 -1 50034
+D2
+~
+~
+0 -1 50047
+D3
+~
+~
+0 -1 50032
+S
+#50034
+Walking on a Stepped Pyramid~
+The first step of the pyramid runs to the east and west here.  The
+step itself is around ten feet wide.  Vines slink along the cracks
+in the ground and climb up the wall of the next step to the south.
+Every so often a stone feline sculpture is atop the stepped pyramid.
+~
+0 0 1
+D1
+~
+~
+0 -1 50035
+D3
+~
+~
+0 -1 50033
+S
+#50035
+Atop a set of Stone Steps~
+Steps lead down to rain-forest floor, while the first tier of the
+pyramid runs to the west and south.  A number of vines creep along
+the cracks of this step, while running up the sidewall of the next
+tier.
+~
+0 0 1
+D2
+~
+~
+0 -1 50036
+D3
+~
+~
+0 -1 50034
+D5
+~
+~
+0 -1 50029
+S
+#50036
+Walking on a Stepped Pyramid~
+The first step of the pyramid runs to the north and south here.  The
+step itself is around ten feet wide.  Vines run along the cracks in
+the ground and climb up the wall of the next step to the west.  Every
+so often a stone feline sculpture is atop the stepped pyramid.
+~
+0 0 1
+D0
+~
+~
+0 -1 50035
+D2
+~
+~
+0 -1 50037
+S
+#50037
+Walking on a Stepped Pyramid~
+The first step of the pyramid runs to the north and south here.  The
+step itself is around ten feet wide.  Vines run along the cracks in
+the ground and climb around an archway to the west.  Through the arch
+stone steps climb to the next level of the pyramid.
+~
+0 0 1
+D0
+~
+~
+0 -1 50036
+D2
+~
+~
+0 -1 50038
+D3
+~
+~
+0 -1 50048
+S
+#50038
+Walking on a Stepped Pyramid~
+The first step of the pyramid runs to the north and south here.  The
+step itself is around ten feet wide.  Vines run along the cracks in
+the ground and climb up the wall of the next step to the west.  Every
+so often a stone feline sculpture is atop the stepped pyramid.
+~
+0 0 1
+D0
+~
+~
+0 -1 50037
+D2
+~
+~
+0 -1 50039
+S
+#50039
+Atop a set of Stone Steps~
+Steps lead down to jungle floor, while the first tier of the pyramid
+runs to the north and west.  A number of vines creep along the cracks
+of this step, while running up the sidewall of the next tier.
+~
+0 0 1
+D0
+~
+~
+0 -1 50038
+D3
+~
+~
+0 -1 50040
+D5
+~
+~
+0 -1 50028
+S
+#50040
+Walking on a Stepped Pyramid~
+The first step of the pyramid runs to the east and west here.  The
+step itself is around ten feet wide.  Vines slink along the cracks
+in the ground and climb up the wall of the next step to the north.
+Every so often a stone feline sculpture is atop the stepped pyramid.
+~
+0 0 1
+D1
+~
+~
+0 -1 50039
+D3
+~
+~
+0 -1 50041
+S
+#50041
+Walking on a Stepped Pyramid~
+The first step of the pyramid runs to the east and west here.  The
+step itself is around ten feet wide.  Vines slink along the cracks
+in the ground and climb up the wall of the next step to the north
+around an archway.  Beyond the archway steps have been carved into
+the stone, leading up to the next tier.
+~
+0 0 1
+D0
+~
+~
+0 -1 50049
+D1
+~
+~
+0 -1 50040
+D3
+~
+~
+0 -1 50042
+S
+#50042
+Walking on a Stepped Pyramid~
+The first step of the pyramid runs to the east and west here.  The
+step itself is around ten feet wide.  Vines slink along the cracks
+in the ground and climb up the wall of the next step to the north.
+Every so often a stone feline sculpture is atop the stepped pyramid.
+~
+0 0 1
+D1
+~
+~
+0 -1 50041
+D3
+~
+~
+0 -1 50043
+S
+#50043
+Atop a set of Stone Steps~
+Steps lead down to rain-forest floor, while the first tier of the
+pyramid runs to the north and east.  A number of vines creep along
+the cracks of this step, while running up the sidewall of the next
+tier.
+~
+0 0 1
+D0
+~
+~
+0 -1 50044
+D1
+~
+~
+0 -1 50042
+D5
+~
+~
+0 -1 50027
+S
+#50044
+Walking on a Stepped Pyramid~
+The first step of the pyramid runs to the north and south here.  The
+step itself is around ten feet wide.  Vines run along the cracks in
+the ground and climb up the wall of the next step to the east.  Every
+so often a stone feline sculpture is atop the stepped pyramid.
+~
+0 0 1
+D0
+~
+~
+0 -1 50045
+D2
+~
+~
+0 -1 50043
+S
+#50045
+Walking on a Stepped Pyramid~
+The first step of the pyramid runs to the north and south here.  The
+step itself is around ten feet wide.  Vines run along the cracks in
+the ground and climb around an archway to the east.  Through the arch
+stone steps climb to the next level of the pyramid.
+~
+0 0 1
+D0
+~
+~
+0 -1 50046
+D1
+~
+~
+0 -1 50050
+D2
+~
+~
+0 -1 50044
+S
+#50046
+Walking on a Stepped Pyramid~
+The first step of the pyramid runs to the north and south here.  The
+step itself is around ten feet wide.  Vines run along the cracks in
+the ground and climb up the wall of the next step to the east.  Every
+so often a stone feline sculpture is atop the stepped pyramid.
+~
+0 0 1
+D0
+~
+~
+0 -1 50031
+D2
+~
+~
+0 -1 50045
+S
+#50047
+Roofless Alcove on the First Step~
+Here stairs lead up to the second tier of the pyramid.  To the north
+an archway opens up on to the first step.  The archway and the walls
+of this chamber form a roofless chamber that has icons and images of
+felines all about.
+~
+0 0 1
+D0
+~
+~
+0 -1 50033
+D4
+~
+~
+0 -1 50061
+S
+#50048
+Roofless Alcove on the First Step~
+Here stairs lead up to the second tier of the pyramid.  To the east
+an archway opens up on to the first step.  The archway and the walls
+of this chamber form a roofless chamber that has icons and images of
+felines all about.
+~
+0 0 1
+D1
+~
+~
+0 -1 50037
+D4
+~
+~
+0 -1 50062
+S
+#50049
+Roofless Alcove on the First Step~
+Here stairs lead up to the second tier of the pyramid.  To the south
+an archway opens up on to the first step.  The archway and the walls
+of this chamber form a roofless chamber that has icons and images of
+felines all about.
+~
+0 0 1
+D2
+~
+~
+0 -1 50041
+D4
+~
+~
+0 -1 50063
+S
+#50050
+Roofless Alcove on the First Step~
+Here stairs lead up to the second tier of the pyramid.  To the west
+an archway opens up on to the first step.  The archway and the walls
+of this chamber form a roofless chamber that has icons and images of
+felines all about.
+~
+0 0 1
+D3
+~
+~
+0 -1 50045
+D4
+~
+~
+0 -1 50051
+S
+#50051
+Stairs atop the Second Step~
+There are stairs leading down here to the first tier.  To the east
+the next step of the pyramid continues.  This step appears to be used
+more than the previous one, actually it looks like the natives have
+been here rather recently.
+~
+0 4 1
+D1
+~
+~
+0 -1 50052
+D5
+~
+~
+0 -1 50050
+S
+#50052
+Exploring the Second Step~
+The step of the pyramid extends in each direction.  Around the edges
+there are feline sculptures.  There are poles placed into the ground
+for their rituals.  The rituals do not appear to be sacrifical, but
+the native are not overly happy to have visitors right now.
+~
+0 0 1
+D0
+~
+~
+0 -1 50053
+D1
+~
+~
+0 -1 50060
+D2
+~
+~
+0 -1 50059
+D3
+~
+~
+0 -1 50051
+S
+#50053
+Edge of the Second Tier~
+The second step of the pyramid continues to the east and south.  The
+walls leading down to the first level are covered in vines, but still
+a bit to tricky to climb down.  Along the edges of this tier are a few
+feline sculptures.
+~
+0 0 1
+D1
+~
+~
+0 -1 50054
+D2
+~
+~
+0 -1 50052
+S
+#50054
+Exploring the Second Step~
+The step of the pyramid extends in each direction.  Around the edges
+there are feline sculptures.  There are poles placed into the ground
+for their rituals.  The rituals do not appear to be sacrifical, but
+the native are not overly happy to have visitors right now.
+~
+0 0 1
+D0
+~
+~
+0 -1 50061
+D1
+~
+~
+0 -1 50055
+D2
+~
+~
+0 -1 50060
+D3
+~
+~
+0 -1 50053
+S
+#50055
+Edge of the Second Tier~
+The second step of the pyramid continues to the south and west.  The
+walls leading down to the first level are covered in vines, but still
+a bit to tricky to climb down.  Along the edges of this tier are a few
+feline sculptures.
+~
+0 0 1
+D2
+~
+~
+0 -1 50056
+D3
+~
+~
+0 -1 50054
+S
+#50056
+Exploring the Second Step~
+The step of the pyramid extends in each direction.  Around the edges
+there are feline sculptures.  There are poles placed into the ground
+for their rituals.  The rituals do not appear to be sacrifical due to
+no signs of spilt blood.
+~
+0 0 1
+D0
+~
+~
+0 -1 50055
+D1
+~
+~
+0 -1 50062
+D2
+~
+~
+0 -1 50057
+D3
+~
+~
+0 -1 50060
+S
+#50057
+Edge of the Second Tier~
+The second step of the pyramid continues to the north and west.  The
+walls leading down to the first level are covered in vines, but still
+a bit to tricky to climb down.  Along the edges of this tier are a few
+feline sculptures.
+~
+0 0 1
+D0
+~
+~
+0 -1 50056
+D3
+~
+~
+0 -1 50058
+S
+#50058
+Exploring the Second Step~
+The step of the pyramid extends in each direction.  Around the edges
+there are feline sculptures.  There are poles placed into the ground
+for their rituals.  The rituals do not appear to be sacrifical due to
+no signs of spilt blood.
+~
+0 0 1
+D0
+~
+~
+0 -1 50060
+D1
+~
+~
+0 -1 50057
+D2
+~
+~
+0 -1 50063
+D3
+~
+~
+0 -1 50059
+S
+#50059
+Edge of the Second Tier~
+The second step of the pyramid continues to the north and east.  The
+walls leading down to the first level are covered in vines, but still
+a bit to tricky to climb down.  Along the edges of this tier are a few
+feline sculptures.
+~
+0 0 1
+D0
+~
+~
+0 -1 50052
+D1
+~
+~
+0 -1 50058
+S
+#50060
+Middle of the Second Tier~
+Stairs rise here to the very top tier of the pyramid.  Above there are
+many stone statues of felines.  The second tier extends to the north,
+east, south, and west.  From all indications the natives appear to be
+doing some kind of ritual.
+~
+0 0 1
+D0
+~
+~
+0 -1 50054
+D1
+~
+~
+0 -1 50056
+D2
+~
+~
+0 -1 50058
+D3
+~
+~
+0 -1 50052
+D4
+~
+~
+0 -1 50065
+S
+#50061
+Stairs atop the Second Step~
+There are stairs leading down here to the first tier.  To the south
+the next step of the pyramid continues.  This step appears to be used
+more than the previous one, actually it looks like the natives have
+been here rather recently.
+~
+0 4 1
+D2
+~
+~
+0 -1 50054
+D5
+~
+~
+0 -1 50047
+S
+#50062
+Stairs atop the Second Step~
+There are stairs leading down here to the first tier.  To the west
+the next step of the pyramid continues.  This step appears to be used
+more than the previous one, actually it looks like the natives have
+been here rather recently.
+~
+0 4 1
+D3
+~
+~
+0 -1 50056
+D5
+~
+~
+0 -1 50048
+S
+#50063
+Stairs atop the Second Step~
+There are stairs leading down here to the first tier.  To the north
+the next step of the pyramid continues.  This step appears to be used
+more than the previous one, actually it looks like the natives have
+been here rather recently.
+~
+0 4 3
+D0
+~
+~
+0 -1 50058
+D5
+~
+~
+0 -1 50049
+S
+#50064
+Crown of a Stepped Pyramid~
+Along the western edge of the crown a good view of the rain-forest is
+visible.  Looking out across the tree-tops and endless sea of green
+stretches on and on into the horizon.
+~
+0 0 1
+D1
+~
+~
+0 -1 50065
+S
+#50065
+Center of the Crown~
+Here is the center of the crown.  A good view of the rain-forest is
+visible from here.  Looking out across the tree-tops and endless sea
+of green stretches on and on into the horizon.  Stairs lead back down
+to the second tier.
+~
+0 4 1
+D0
+~
+~
+0 -1 50067
+D1
+~
+~
+0 -1 50066
+D2
+~
+~
+0 -1 50068
+D3
+~
+~
+0 -1 50064
+D5
+~
+~
+0 -1 50060
+S
+#50066
+Crown of a Stepped Pyramid~
+Along the eastern edge of the crown a good view of the rain-forest is
+visible.  Looking out across the tree-tops and endless sea of green
+stretches on and on into the horizon.  To the west is the center of the
+crown of the pyramid.
+~
+0 0 1
+D3
+~
+~
+0 -1 50065
+S
+#50067
+Crown of a Stepped Pyramid~
+Here on the northern quarter of the pyramid a good view of the rain-
+forest is visible.  Looking out across the tree-tops and endless sea
+of green stretches on and on into the horizon.  South is the center
+of the pyramid crown.  Surely there is an enterance into the pyramid
+hidden somewhere.
+~
+0 0 1
+D2
+~
+~
+0 -1 50065
+D5
+~
+pedestal~
+11 0 50088
+E
+pedestal floor~
+Hey, you think there is a door of some kind here in the floor.  Maybe
+it is not locked?  Perhaps this is where all the gold and silver is?
+~
+S
+#50068
+Crown of a Stepped Pyramid~
+Here on the southern quarter of the pyramid a good view of the rain-
+forest is visible.  Looking out across the tree-tops and endless sea
+of green stretches on and on into the horizon.  South is the center
+of the pyramid crown.
+~
+0 0 1
+D0
+~
+~
+0 -1 50065
+S
+#50069
+Exploring the Dense Rain-Forest~
+The rain-forest is very dense here, making travel slow and akward.
+You can easily make your way south or west.  All around are hundreds
+of shades of green.
+~
+0 4 3
+D2
+~
+~
+0 -1 50070
+D3
+~
+~
+0 -1 50013
+S
+#50070
+Hiking through the Rain-Forest~
+Travel through the rain-forest is slowed by the thick undergrowth of
+all kinds of foilage.  Ferns, shrubs, small trees, vines, and so on.
+Just about everything is one shade of green or another.  Going to the
+north or south looks much easier than trying to go east or west.
+~
+0 0 3
+D0
+~
+~
+0 -1 50069
+D2
+~
+~
+0 -1 50071
+S
+#50071
+Surrounded by the Foilage~
+The rain-forest is very dense here, making travel slow and akward.
+You can easily make your way north, east, or south.  All around are
+hundreds of shades of green.
+~
+0 0 3
+D0
+~
+~
+0 -1 50070
+D1
+~
+~
+0 -1 50072
+D2
+~
+~
+0 -1 50074
+S
+#50072
+Bottom of a Rain-Forest Ravine~
+The rain-forest continues to the south and west through relatively
+dense foilage.  To the north and east the rain-forest is just too
+thick to make it through.  You may also ascend a ravine to a higher
+location.
+~
+0 0 3
+D2
+~
+~
+0 -1 50073
+D3
+~
+~
+0 -1 50071
+D4
+~
+~
+0 -1 50075
+S
+#50073
+Corner of the Rain-Forest~
+Here in the corner of the rain-forest there is a majestic feline
+scultpure. The pose of the creature suggests royalty, and is worth
+a closer look.  To the north and west the rain-forest appears to be
+easy enough to explore, while to the east and south looks extra-
+ordinarily thick and dense.
+~
+0 0 3
+D0
+~
+~
+0 -1 50072
+D3
+~
+~
+0 -1 50074
+S
+#50074
+Upper Rain-Forest Shelf~
+The rain-forest is very dense here, making travel slow and akward.
+You can easily make your way north and east.  The ground drops off
+below from which you can explore a lower shelf of the rain-forest.
+The whole place is green, moist, and annoyingly warm.
+~
+0 0 3
+D0
+~
+~
+0 -1 50071
+D1
+~
+~
+0 -1 50073
+D5
+~
+~
+0 -1 50008
+S
+#50075
+Top of a Rain-Forest Ravine~
+The rain-forest continues to the north and west through relatively
+dense foilage.  To the south and east the it is just too thick to
+make it through.  Here a ravine descends here down to lower ground.
+There are just too many kinds of plants here to name.
+~
+0 0 3
+D0
+~
+~
+0 -1 50076
+D3
+~
+~
+16777216 -1 50017
+D5
+~
+~
+0 -1 50072
+S
+#50076
+Checking out a Gulch~
+The rain-forest is very dense here, making travel slow and akward.
+You can easily make your way south or up atop a rise.  Everything
+about this place is green, moist, and annoyingly warm.  There looks
+to be alot of insects down here in the gulch.
+~
+0 0 3
+D2
+~
+~
+0 -1 50075
+D4
+~
+~
+0 -1 50086
+S
+#50077
+Hacking through the Rain-Forest~
+The rain-forest is very dense here, making travel slow and akward.
+You can easily make your way east or west.  All around are hundreds
+of shades of green.  In some places you are literally forced to draw
+a blade and hack your way through the plants.
+~
+0 4 3
+D1
+~
+~
+0 -1 50021
+D3
+~
+~
+0 -1 50078
+S
+#50078
+Exploring the Dense Rain-Forest~
+The rain-forest sort of goes to the north and east.  There sure are
+alot of trees and bushes and ferns and them sorts of things around
+here.  The air is warm, still, and humid.
+~
+0 0 3
+D0
+~
+~
+0 -1 50079
+D1
+~
+~
+0 -1 50077
+S
+#50079
+Near an Feline Statue~
+The rain-forest expands to the north and south while a trail begins
+as it is leading down through a depression.  The rain-forest looks
+particularly dense to the east and west.  There is a statue half-
+hidden beneath a large plant.
+~
+0 0 3
+D0
+~
+~
+0 -1 50080
+D2
+~
+~
+0 -1 50078
+D5
+~
+~
+0 0 50094
+S
+#50080
+Down in a Gulch~
+The rain-forest is very dense here, making travel slow and akward.
+You can easily make your way south or up atop a rise.  Everything
+about this place is green, moist, and annoyingly warm.  Here are
+alot of insects drawn to these wetter areas of the rain-forest.
+~
+0 0 3
+D2
+~
+~
+0 -1 50079
+D4
+~
+~
+0 -1 50087
+S
+#50081
+Moving through the Dense Foilage~
+The dense foilage of the rain-forest nearly blocks going east and
+west, and make going north or south impossible.  The air is warm
+and humid, just the right kind of climate for insects and disease
+to thrive.  You hope you do not catch anything while you are on
+your vacation here.
+~
+0 4 3
+D1
+~
+~
+0 -1 50024
+D3
+~
+~
+0 -1 50082
+S
+#50082
+Exploring the Dense Rain-Forest~
+The dense foilage of the rain-forest nearly block going east and
+south, and make going north or west impossible.  There is a very
+old, very worn stone sculpture nearly hidden behind the undergrowth.
+~
+0 0 3
+D1
+~
+~
+0 -1 50081
+D2
+~
+~
+0 -1 50083
+S
+#50083
+Lush Rain-Forest Shelf~
+The rain-forest is very dense here, making travel slow and akward.
+You can easily make your way north along the shelf or down into a
+gulch.  At least a hundreds of shades of green surround you in the
+form of trees, ferns, and shrubs.  A little too much green actually.
+~
+0 0 3
+D0
+~
+~
+0 -1 50082
+D5
+~
+~
+0 -1 50010
+S
+#50084
+Rarely used Rain-Forest Path~
+Clearly this trail is not used very much at all.  To the north after a
+few feet the pathway disappears completely, while to the south a ways
+a clearing is spotted around the base of a pyramid.
+~
+0 4 3
+D0
+~
+~
+0 -1 50085
+D2
+~
+~
+0 -1 50019
+S
+#50085
+Middle of a Highspot~
+To the east and west this highspot in the rain-forest continues.
+Looking south a pyramid can be seen sticking out above the green
+treetops.  There looks to be a path leading to the south towards
+the general direction of the pyramid.
+~
+0 0 3
+D1
+~
+~
+0 -1 50086
+D2
+~
+~
+0 -1 50084
+D3
+~
+~
+0 -1 50087
+S
+#50086
+Atop a Rise in the Rain-Forest~
+The rain-forest is very dense here, making travel slow and akward.
+You can easily make your way west or down into a gulch.  Hundreds
+of shades of green surround you in the form of trees, ferns, and
+shrubs.
+~
+0 0 3
+D3
+~
+~
+0 -1 50085
+D5
+~
+~
+0 -1 50076
+S
+#50087
+Atop a Rise in the Rain-Forest~
+The rain-forest is very dense here, making travel slow and akward.
+You can easily make your way east or down into a gulch.  Hundreds
+of shades of green surround you in the form of trees, ferns, and
+shrubs.
+~
+0 0 3
+D1
+~
+~
+0 -1 50085
+D5
+~
+~
+0 -1 50080
+S
+#50088
+Top of the Pyramid Stairwell~
+Above is a pedestal that exits the inner chambers.  Below a stairwell
+bends at right angles in the corner, decending even deeper into the
+darkness.  You feel that you are not alone down here by any means.  On
+the walls are relief images of cats and cat-like beings.
+~
+0 13 0
+D4
+~
+~
+3 0 50067
+D5
+~
+~
+0 -1 50089
+S
+#50089
+Middle of the Pyramid Stairwell~
+A stairwell turns down at right angles decended ever deeper into the
+interior portion of the pyramid.  A distance above a pedestal leads
+out on to the top of the pyramid.  A ways below in the shadows the
+bottom of the stairwell is visible.  All along the walls there are
+various images of cats and cat-like beings.
+~
+0 13 0
+D4
+~
+~
+0 -1 50088
+D5
+~
+~
+0 -1 50090
+S
+#50090
+Bottom of the Pyramid Stairwell~
+The stairwell ends here, and leads up where high above a hinged trap-
+door on the top of the pyramid.  To the east there is an archway and
+beyond there is a chamber, but it is too dark to see exactly what lay
+ahead.
+~
+0 13 0
+D1
+~
+~
+0 -1 50091
+D4
+~
+~
+0 -1 50089
+S
+#50091
+Lair of the Saber-Tooth Tiger~
+Here in the darkness of the pyramid depths there is the lair of some
+very large, very hungry beast.  There is all the typical trappings of
+an animal lair here, bones, hair, dung, everything except treasure.
+To the south and west archways leads into other chambers.
+~
+0 13 0
+D2
+~
+~
+0 -1 50092
+D3
+~
+~
+0 -1 50090
+S
+#50092
+Priest Chambers~
+This chamber is used by a priest or priestess who obviously worships
+cats.  Aside from crudely made basic items, there several primative
+sculptures and wallpaintings that symbolize the great cats.  There are
+arches to the north and west, but what lay past the archways is just
+impossible to tell.
+~
+0 13 0
+D0
+~
+~
+0 -1 50091
+D3
+~
+~
+0 0 50093
+S
+#50093
+Altar Chamber~
+This domed chamber probably lays at the heart of the pyramid.  In the
+center of the room is an altar made of a very heavy wood and adorned
+with gold and silver, and gems and jewels.  There is an aura of magic
+coming from the altar.  The walls are set with tapestries that show a
+number of different cat-men in scenes of combat and games.  There is
+an archway to the east, but a strange, blue force-field is preventing
+passage through.  The single occupant seems amused by your actions,
+and stares at you with a terrifing gaze.  Perhaps you have offended
+this being?  You best thing of something quick before it decides to
+eat you for supper...
+~
+0 3146253 0
+S
+#50094
+Walking along a Rain-Forest Trail~
+This path has been used recently, but by who you do not know.  To the
+north the foot wide path runs through trees, ferns, and all sorts of
+other green plants.  The path also climbs up a high place here in the
+rain-forest.
+~
+0 0 3
+D0
+~
+~
+0 0 50096
+D4
+~
+~
+0 0 50079
+S
+#50095
+Rain-Forest Pyramid Mob Room~
+This room is where the renegade native hunter goes after making one
+item per boot.  The Cat Lord also hangs out here so he does not come
+around more than once per boot.
+
+Players are not supposed to be here at all.  If you have somehow
+gotten into the room, contact your nearest immortal and ask for a
+transfer.
+~
+0 36708364 0
+S
+#50096
+Travelling along an Overgrown Path~
+This path has been used recently, but by who you do not know.  To the
+north and south the foot wide path runs by trees, ferns, and all sorts
+of other green plants.  Three words best describe this place.   Green,
+hot, and wet.
+~
+0 0 3
+D0
+~
+~
+0 0 50097
+D2
+~
+~
+0 0 50094
+S
+#50097
+Path leading through the Rain-Forest~
+This path cuts through the rain-forest to the west and south.  This
+trail is clearly not used by very many people, it is only a foot or
+so wide.  However, it looks to have been used recently.  Through the
+dense vegetation you spy a small hut to the northwest.
+~
+0 0 3
+D2
+~
+~
+0 0 50096
+D3
+~
+~
+0 0 50098
+S
+#50098
+Outside a Crude Native Hut~
+The path ends here outisde of a crude native hut.  The hut is about
+ten feet in diameter and is circular in shape with a conical roof. The
+whole structure is built out of thatching from ferns around a wooden
+frame.  It is built off the ground, set upon a dozen six inch stilts
+to keep insects and snakes outside.  There is a door made of light
+thatch leading into the hut right next to an open window.  A mumbling
+can be heard from inside the hut.
+~
+0 0 3
+D0
+~
+~
+3 0 50099
+D1
+~
+~
+0 0 50097
+E
+window~
+Peeking inside the hut you see a single chamber covered with all kinds
+of animal skins.  Aside from general furnishings, there is a lone man
+sitting in the middle of the room tooling with a knife, stitching, and
+an animal skin.  Except for the knife, he does not have any weapons.
+~
+E
+crude hut thatch thatching~
+The structure is crude and made from dried plants and branches from
+the jungle that is surrounding you.  While not a palace, it will keep
+you dry, and provide a bit of privacy.
+~
+S
+#50099
+Inside a Crude Native Hut~
+The hut is but one single circular chamber with a door set into the
+wall to the south.  The interior of this hut is covered with animal
+skins, and a sizable number of these skins are feline skins.  Simple
+wooden furniture and an assortment of native trinkets are all that is
+openly visable.  The occupant does not really seem to mind your bold
+intrusion and even greets you with a faint smile.
+~
+0 1548 0
+D2
+~
+~
+3 0 50098
+E
+animal skins~
+You guess that the occupant is some kind of hunter or tailor, maybe he
+is both.  There are several feline skins here as well.
+~
+E
+native trinkets~
+Oh, just the usual crap.  No idols made of gold and silver.  No fist
+sized gems.  Damnit, you know this guy has something of value here.
+Maybe it's his talents?
+~
+E
+cat feline~
+You wonder if it is taboo for this man to work with feline skins?  You
+figure it might be the case, but then again, you do not have a degree
+in cultural anthropology so you opinions really don't mean jack shit.
+Uh, sorry about that, personal sarcastic ramblings.
+~
+E
+wooden furniture~
+Junk!  You could not even give this furniture away.  You see no real
+reason for stealing his furniture, what are you, a cleptomaniac?
+~
+S
+#0
+
+
+#RESETS
+O 1 50031 1 50001
+O 0 50000 0 50002
+O 0 50032 0 50003
+M 0 50032 5 50010
+M 0 50032 5 50010
+O 0 50052 0 50011
+O 0 50052 0 50012
+M 0 50000 4 50013
+O 0 50038 0 50013
+O 0 50052 0 50014
+O 0 50039 0 50015
+O 0 50052 0 50016
+M 0 50000 4 50017
+O 0 50052 0 50017
+O 0 50052 0 50018
+O 0 50052 0 50019
+O 0 50052 0 50020
+M 0 50000 4 50021
+O 0 50042 0 50021
+O 0 50052 0 50022
+O 0 50052 0 50023
+O 0 50052 0 50024
+M 0 50000 4 50025
+O 0 50052 0 50025
+O 0 50052 0 50026
+M 0 50004 2 50031
+O 0 50052 0 50032
+M 0 50003 2 50033
+O 0 50052 0 50034
+M 0 50002 2 50035
+O 0 50052 0 50036
+M 0 50001 2 50037
+O 0 50052 0 50038
+M 0 50004 2 50039
+O 0 50037 0 50040
+M 0 50003 2 50041
+O 0 50052 0 50042
+M 0 50002 2 50043
+O 0 50052 0 50044
+M 0 50001 2 50045
+O 0 50041 0 50046
+M 0 50008 1 50051
+O 0 50052 0 50053
+O 0 50043 0 50055
+O 0 50052 0 50057
+O 0 50052 0 50059
+M 0 50013 8 50060
+E 0 50045 0 6
+M 0 50013 8 50060
+E 0 50045 0 6
+M 0 50013 8 50060
+E 0 50045 0 6
+M 0 50013 8 50060
+E 0 50045 0 6
+M 0 50013 8 50060
+E 0 50045 0 6
+M 0 50013 8 50060
+E 0 50045 0 6
+M 0 50013 8 50060
+E 0 50045 0 6
+M 0 50013 8 50060
+E 0 50045 0 6
+M 0 50007 1 50061
+M 0 50006 1 50062
+M 0 50005 1 50063
+M 0 50009 1 50064
+M 0 50028 2 50064
+M 0 50028 2 50064
+M 0 50014 2 50065
+E 0 50047 0 16
+E 0 50046 0 11
+M 0 50014 2 50065
+E 0 50047 0 16
+E 0 50046 0 11
+M 0 50011 1 50066
+M 0 50030 2 50066
+M 0 50030 2 50066
+M 0 50012 1 50067
+M 0 50031 2 50067
+M 0 50031 2 50067
+D 0 50067 5 1
+M 0 50010 1 50068
+M 0 50029 2 50068
+M 0 50029 2 50068
+M 0 50033 1 50072
+M 0 50016 3 50073
+E 0 50047 0 16
+O 0 50044 0 50073
+M 0 50032 5 50076
+O 0 50040 0 50079
+M 0 50032 5 50080
+M 0 50032 5 50080
+O 0 50052 0 50082
+M 0 50034 1 50082
+E 0 50055 0 3
+M 0 50016 3 50083
+E 0 50047 0 16
+M 0 50016 3 50085
+E 0 50047 0 16
+D 0 50088 4 1
+M 0 50019 1 50091
+M 0 50015 1 50092
+E 0 50048 0 17
+M 0 50018 1 50093
+D 0 50098 0 1
+M 0 50017 1 50099
+D 0 50099 2 1
+S
+
+
+#SHOPS
+0
+
+
+#REPAIRS
+0
+
+
+#SPECIALS
+M  50032 spec_poison
+S
+
+
+#$
